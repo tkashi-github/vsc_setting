@@ -1,0 +1,21 @@
+{
+    "editor.fontFamily": "ＭＳ ゴシック",
+    "editor.fontSize": 16,
+    "files.encoding": "shiftjis",
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": false,
+    "editor.autoClosingBrackets": false,
+    "C_Cpp.loggingLevel": "Warning",
+    "git.path": "C:\\Program Files\\Git\\bin\\git.exe",
+    "c-cpp-flylint.clang.standard": [
+        "c11"
+    ],
+    "clang.cxxflags": [
+        "--std=c++11"
+    ],
+    "clang.cflags": [
+        "--std=c11"
+    ],
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "terminal.integrated.scrollback": 10000,
+}
